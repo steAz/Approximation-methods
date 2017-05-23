@@ -1,0 +1,6 @@
+F:\Informatyka\Semestr IV\Metody numeryczne\Projekt\Projekt III\aproksymacja\bin\Debug\aproksymacja.exe.config
+F:\Informatyka\Semestr IV\Metody numeryczne\Projekt\Projekt III\aproksymacja\obj\Debug\aproksymacja.csprojResolveAssemblyReference.cache
+F:\Informatyka\Semestr IV\Metody numeryczne\Projekt\Projekt III\aproksymacja\bin\Debug\aproksymacja.exe
+F:\Informatyka\Semestr IV\Metody numeryczne\Projekt\Projekt III\aproksymacja\bin\Debug\aproksymacja.pdb
+F:\Informatyka\Semestr IV\Metody numeryczne\Projekt\Projekt III\aproksymacja\obj\Debug\aproksymacja.exe
+F:\Informatyka\Semestr IV\Metody numeryczne\Projekt\Projekt III\aproksymacja\obj\Debug\aproksymacja.pdb
